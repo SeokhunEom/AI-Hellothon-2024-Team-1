@@ -12,7 +12,7 @@ click==8.1.7
 cloudpickle==3.1.0
 comm==0.2.0
 compressed-tensors==0.8.0
-datasets==3.1.0
+datasets==5.0.1
 debugpy==1.8.0
 decorator==5.1.1
 dill==0.3.8
